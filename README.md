@@ -9,7 +9,9 @@ This application is designed as:
 - A stock analysis dashboard
 - A financial data visualization tool
 
-The goal is to help users understand stocks, technical indicators, company fundamentals, and forecasting concepts in a simple and visual way.
+The goal is to help users understand stocks, technical indicators, company fundamentals, and forecasting concepts in a simple and visual way. Check it Here 
+
+https://aistockinsightsdashboard-macejdfgtwv2vgjlzchkik.streamlit.app/
 
 ---
 
@@ -426,20 +428,6 @@ Start Command:
 ```bash
 streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 ```
-
----
-
-## Railway
-
-Deploy directly from GitHub.
-
-Use:
-
-```bash
-streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
-```
-
-as the start command.
 
 ---
 
