@@ -371,30 +371,6 @@ The dashboard will open in your browser.
 
 ---
 
-# Screenshots
-
-Add screenshots here.
-
-Suggested sections:
-
-### Dashboard Overview
-
-images/dashboard.png
-
-### Technical Analysis
-
-images/technical.png
-
-### Forecasting Lab
-
-images/forecast.png
-
-### Education Center
-
-images/education.png
-
----
-
 # Deployment
 
 ## Streamlit Community Cloud
